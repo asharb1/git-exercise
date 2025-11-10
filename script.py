@@ -3,8 +3,7 @@ def hello():
 
 hello()
 
-git add script.py
-git commit -m "Add hello function"
+
 
 
 def goodbye():
@@ -12,7 +11,6 @@ def goodbye():
 
 goodbye()
 
-git add script.py
-git commit -m "Add goodbye function"
+
 
 
